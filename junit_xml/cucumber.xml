@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="2" tests="2" time="0">
+<testcase classname="Login Feature" name="Login as authenticated user" time="0">
+<skipped><![CDATA[Given I am on the home page.................................................undefined
+Then Enter the username "<username>" and password "abc45679" credentials....undefined
+And click on the login button...............................................undefined
+Then successful message is displayed........................................undefined
+Then close the browser......................................................undefined
+]]></skipped>
+</testcase>
+<testcase classname="Login Feature" name="Login as authenticated user 2" time="0">
+<skipped><![CDATA[Given I am on the home page.................................................undefined
+Then Enter the username "<username>" and password "husemfje896" credentials.undefined
+And click on the login button...............................................undefined
+Then successful message is displayed........................................undefined
+Then close the browser......................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
